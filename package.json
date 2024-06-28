@@ -1,0 +1,30 @@
+{
+  "name": "Theme-EspectraOne",
+  "displayName": "Theme-EspectraOne",
+  "description": "dark theme with comfortable colors",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.90.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "theme EspectraOne",
+        "uiTheme": "vs-dark",
+        "path": "./themes/theme EspectraOne-color-theme.json"
+      }
+    ]
+  },
+  "icon": "jakiwyj8.png",
+  "author": {
+    "name": "Espectra",
+    "email": "roberto.aramburo26@gmail.com"},
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/Espectrared/tema-Visual"},
+      "publisher": "Espectra"
+  
+}
